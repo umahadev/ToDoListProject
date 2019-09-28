@@ -1,7 +1,26 @@
-table, th, td {
+/*table, th, td {
     border: 1px solid black;
 }
-th, td {
+th,  td {
     padding: 15px;
     text-align: left;
 }
+*/
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    /*width: 100%;*/
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+ 
+input[type=checkbox] {width:120px; height:20px;text-align:center; vertical-align:middle}
