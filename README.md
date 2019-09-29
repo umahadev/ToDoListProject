@@ -9,3 +9,6 @@ This is just the initial version. Need more functionality to be added.
 <28th Sep 2019>
 Checkbox is added.
 Issues: But the border is not displayed for the first cell/column. Need to figure out that.
+
+<29th Sep 2019>
+Remove button is added and remove is working.
