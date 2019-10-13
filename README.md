@@ -15,3 +15,5 @@ Remove button is added and remove is working.
 
 <30th Sep 2019>
 Checkbox and the functionality to strike and un-strike the text has been added. Tested the functionality and it is working.
+<13th Oct 2019>
+Localstorage function is added.
